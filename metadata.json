@@ -1,0 +1,5 @@
+{
+  "name": "AI Story Generator - Waifu Fork",
+  "description": "An AI-powered story generator that helps users continue their stories with different tones and ideas. Users can provide context via text or file upload to guide the AI.",
+  "requestFramePermissions": []
+}
